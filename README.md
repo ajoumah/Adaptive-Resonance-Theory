@@ -56,5 +56,5 @@ In effect, ρ governs the **trade-off between generalization and specificity** i
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/ART1.git
+git clone https://github.com/ajoumah/Adaptive-Resonance-Theory.git 
 cd ART1
